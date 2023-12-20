@@ -1,2 +1,2 @@
 # my-bullet-journal
-TiddlyWiki backup
+TiddlyWiki bullet journal
